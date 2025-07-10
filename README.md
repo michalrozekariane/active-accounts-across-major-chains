@@ -43,5 +43,5 @@ The data was collected using the following platforms:
 
 ## References
 
-- 📊 [Master comparison spreadsheet](https://docs.google.com/spreadsheets/d/188fzijYFF4JYkX2xxuGGCFnN-HuhqVHFJ224zZRs1W0)
-- 📄 [Engagement & retention analysis report](https://docs.google.com/document/d/1ZtByf-cyq2LurWtTlluhMlRxH0GKZ9amBYg9bkj-1Nc)
+- 📊 [Active Accounts Across Major Chains - Master comparison spreadsheet](https://docs.google.com/spreadsheets/d/188fzijYFF4JYkX2xxuGGCFnN-HuhqVHFJ224zZRs1W0)
+- 📄 [Active Accounts Across Major Chains - Report](https://docs.google.com/document/d/1ZtByf-cyq2LurWtTlluhMlRxH0GKZ9amBYg9bkj-1Nc)
